@@ -1,0 +1,6 @@
+{
+  "name": "BMI Calculator",
+  "description": "A modern BMI calculator application with a Frosted Glass design theme, unit conversion, health insights, and weight history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
